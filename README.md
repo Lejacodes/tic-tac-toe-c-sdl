@@ -3,7 +3,7 @@
 A pretty simple tic tac toe game written in C, using SDL2 for visuals.
 This project allows players to play against an AI or another player.
 It's displayed in a coquette-inspired theme.
-(will upload the code with SDL2 and without SDL2)
+(uploaded the code with SDL2 and without SDL2)
 
 ## Features
 - Player vs AI mode
